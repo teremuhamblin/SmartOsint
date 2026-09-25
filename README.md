@@ -1,6 +1,8 @@
-`md
+###### README.md >> markdown 
 <div style="text-align:center; font-size:34px; font-weight:700; color:#7B4397;">
-SmartOsint — OSINT Engine v1.0
+
+  # SmartOsint
+   - Osint engine v1.0
 </div>
 
 <div style="text-align:center; font-size:18px; color:#4A90E2;">
